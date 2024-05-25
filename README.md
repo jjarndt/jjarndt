@@ -1,4 +1,5 @@
-### Moin! *ˈmoːɪn* <small>*Hello!* (in North German dialect)</small>
+### Moin! 
+*ˈmoːɪn* <small>*Hello!* (in North German dialect)</small>
 
 #### About Me / Interests:
 - **Business Process Automation:** Dedicated to streamlining business processes using **Camunda**.
