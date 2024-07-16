@@ -4,7 +4,7 @@
 **Philosophy:**  
 [Radical Simplicity in Technology](https://www.radicalsimpli.city/) (good read btw)
 
-**Bread & Butter Stack:**  
+**Core Technology Stack**  
 Java, Spring, Camunda, Kubernetes
 
 **Explorative Stack:**  
